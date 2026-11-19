@@ -18,7 +18,7 @@ when you launch it from Visual Studio). Press Ctrl+C to close it.
 You'll need CMake 3.20+ and a C++17 compiler. I use Visual Studio 2022 on Windows,
 but anything reasonably modern should work.
 
-From the `hello/` folder:
+Run these in the folder that contains the actual source files (if the folder has another folder inside, then open that folder):
 
 ```
 cmake -S . -B build
