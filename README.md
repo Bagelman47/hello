@@ -11,7 +11,7 @@ Press Ctrl+C to exit.
 If you just hit Enter without typing anything, you get a plain `Hello!` instead.
 
 The program sits there after greeting you (so the console window doesn't vanish
-when you launch it from Visual Studio). Press Ctrl+C to close it.
+when you launch it). Press Ctrl+C to close it.
 
 ## Building
 
